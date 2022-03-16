@@ -1,4 +1,4 @@
-# Variante effect predictor assessment pipeline
+# Variant effect predictor assessment pipeline
 
 This GitHub repository contains the computational analysis pipeline used in the manuscript "Assessing computational variant effect predictors with a large prospective cohort" (in preparation).
 
